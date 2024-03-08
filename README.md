@@ -16,7 +16,7 @@ GitHub is a platform for hosting and collaborating on projects using the Git ver
 
  ## Commands
 
-1. Create a Branch: Before making any changes to the code, it's a good idea to create a new branch. This keeps your changes isolated from the main codebase until you're ready to merge them. Use the git checkout -b command followed by the branch name to create a new branch and switch to it.
+1. **Create a Branch**: Before making any changes to the code, it's a good idea to create a new branch. This keeps your changes isolated from the main codebase until you're ready to merge them. Use the git checkout -b command followed by the branch name to create a new branch and switch to it.
 
   `git checkout -b <branch-name>`
 
@@ -45,3 +45,11 @@ Commit Changes: Once you've made your changes, you'll need to commit them to the
 4. remove globally your user name `git config --unset --global user.name <username>`
 
 5. remove globally your user email `git config --unset --global user.email <useremail>`   
+
+
+## Set up Git Remote 
+
+1. **Check Remote Path :** `git remote -v`
+2. **Add Remote Path :** `git remote add -origin <yourgithubpath>`
+
+
