@@ -32,3 +32,16 @@ Commit Changes: Once you've made your changes, you'll need to commit them to the
 3. Push Changes: If you're working on a branch that exists remotely, you can push your changes using the git push command.
 
 `git push origin <branch-name>`
+
+
+## config
+
+1. View Current Configuration: `git config --list`
+
+2. Add globally user name `git config --global user.name <username>`
+
+3. Add globally user email `git config --global user.email <useremail>`
+
+4. remove globally your user name `git config --unset --global user.name <username>`
+
+5. remove globally your user email `git config --unset --global user.email <useremail>`   
