@@ -1,4 +1,4 @@
-# How to Use GitHub : written by Muhammad Aashan
+# How to Use GitHub 
 
 GitHub is a platform for hosting and collaborating on projects using the Git version control system. This guide will walk you through the basics of using GitHub.
 
@@ -53,3 +53,8 @@ Commit Changes: Once you've made your changes, you'll need to commit them to the
 2. **Add Remote Path :** `git remote add -origin <yourgithubpath>`
 
 
+## Documentation Credits
+
+**Created By:** `Muhammad Aashan`
+
+This documentaion is specially created for you to learn and use github easily...
